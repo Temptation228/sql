@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/BookHotel/creation.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/BookHotel/insertion.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/BookHotel/task1.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/BookHotel/task2.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/BookHotel/task3.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/CarRaces/creation.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/CarRaces/insertion.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/CarRaces/task1.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/CarRaces/task2.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/CarRaces/task3.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/CarRaces/task4.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/CarRaces/task5.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Organization/creation.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Organization/insertion.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Organization/task1.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Organization/task2.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Organization/task3.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Vehicle/creation.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Vehicle/insertion.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Vehicle/task1.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Vehicle/task2.sql" dialect="PostgreSQL" />
+  </component>
+</project>
